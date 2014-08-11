@@ -3,7 +3,20 @@
   "version": "0.9.0-alpha",
   "main": [
     "src/jquery.flot.js",
-    "src/plugins/*"
+    "src/plugins/jquery.flot.canvas.js",
+    "src/plugins/jquery.flot.categories.js",
+    "src/plugins/jquery.flot.crosshair.js",
+    "src/plugins/jquery.flot.errorbars.js",
+    "src/plugins/jquery.flot.fillbetween.js",
+    "src/plugins/jquery.flot.image.js",
+    "src/plugins/jquery.flot.navigate.js",
+    "src/plugins/jquery.flot.pie.js",
+    "src/plugins/jquery.flot.resize.js",
+    "src/plugins/jquery.flot.selection.js",
+    "src/plugins/jquery.flot.stack.js",
+    "src/plugins/jquery.flot.symbol.js",
+    "src/plugins/jquery.flot.threshold.js",
+    "src/plugins/jquery.flot.time.js"
   ],
   "dependencies": {
     "jquery": ">= 1.2.6"
